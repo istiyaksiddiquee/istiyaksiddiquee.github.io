@@ -12,15 +12,3 @@
   repo: StyleBasedGenreClassification
   img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
   desc: In this team project, we used a dataset of 19th century fictional literature, created by Gutenberg Project. We extracted, based on the research done by Douglas Biber, a custom feature vector of 23 dimension based on writing style. The challenge of the task was the imbalance nature of the dataset. Later, we compared the performances of multiple algorithms, along with neural network in classifying the books.
-
-- name: Azure Automation Scripts
-  gh_user: tzuehlke
-  repo: scripts
-  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
-
-- name: Face API
-  gh_user: ArvatoSystems
-  repo: FaceApiWPF
-  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
-  desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream. 

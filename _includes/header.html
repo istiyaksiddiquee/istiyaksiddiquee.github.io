@@ -75,20 +75,20 @@
               </li>
             {% endif %}
 
-            {% if site.author.meetup_name %}
-            <!-- Meetup -->
+            {% if site.author.cv %}
+            <!-- Curriculam Vitae -->
             <li class="navigation__item">
-              <a href="https://www.meetup.com/{{ site.author.meetup_name }}" title="Meetup {{ site.author.meetup_name }}" target="_blank">
+              <a href="{{ site.author.cv }}" title="Get my CV" target="_blank">
                 <!--<div style="font-size: 1.4rem;"><i class="fab fa-meetup fa-lg"></i></div>-->
-                <i class="fab fa-meetup fa-lg"></i>
-                <span class="label">Meetup</span>
+                <i class="fas fa-file-pdf fa-lg"></i>
+                <span class="label">CV</span>
               </a>
             </li>
             {% endif %}
-            
+
             </ul>
           </nav>
-          
+        </br>
           <!--<nav class="cover-navigation cover-navigation--primary">-->
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
