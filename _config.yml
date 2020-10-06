@@ -2,7 +2,8 @@
 title: Istiyak H. Siddiquee
 description: 'Intro Page'
 url: 'https://www.linkedin.com/in/istiyaksiddiquee/'
-baseurl: 'https://www.linkedin.com/in/istiyaksiddiquee/'
+lurl: 'https://www.linkedin.com/in/istiyaksiddiquee/'
+baseurl: ''
 profilepic: '/images/siddiquee.jpg'
 bkimage: '/images/cover.jpg'
 google_analytics: UA-XXXXXX-X
