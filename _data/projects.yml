@@ -7,11 +7,11 @@
   img: '/images/magnum_opus_image.png'
   desc: A demo project built with tonnes of cutting edge tech starting from Java, NodeJs, python to Docker, Kubernetes, istio, Jenkins. Built with "No Button Touch" philosophy, this project has almost all the technologies that I know about or have experience of working in.
 
-- name: Jekyll Theme
-  gh_user: tzuehlke
-  repo: jekyll-uno-timeline
+- name: Style Based Genre Classification
+  gh_user: istiyaksiddiquee
+  repo: StyleBasedGenreClassification
   img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
-  desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
+  desc: In this team project, we used a dataset of 19th century fictional literature, created by Gutenberg Project. We extracted, based on the research done by Douglas Biber, a custom feature vector of 23 dimension based on writing style. The challenge of the task was the imbalance nature of the dataset. Later, we compared the performances of multiple algorithms, along with neural network in classifying the books.
 
 - name: Azure Automation Scripts
   gh_user: tzuehlke

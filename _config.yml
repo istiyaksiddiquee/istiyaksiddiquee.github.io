@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/siddiquee.jpg'
 bkimage: '/images/cover.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: 'c427e96267.js'
 
 author:
   name: 'Istiyak H. Siddiquee'
@@ -15,6 +15,7 @@ author:
   facebook_username: istiyaksiddiquee
   github_username:  istiyaksiddiquee
   linkedin_username:  istiyaksiddiquee
+  cv: /resources/Mohammad Istiyak Hossain Siddiquee 04Oct2020.pdf
 
 # Build settings
 destination: _site
