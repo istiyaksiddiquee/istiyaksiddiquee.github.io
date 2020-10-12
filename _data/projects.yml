@@ -4,11 +4,35 @@
 - name: Magnum Opus
   gh_user: istiyaksiddiquee
   repo: MagumOpus
+  repo_URL: https://github.com/istiyaksiddiquee/MagumOpus
   img: '/images/magnum_opus_image.png'
   desc: A demo project built with tonnes of cutting edge tech starting from Java, NodeJs, python to Docker, Kubernetes, istio, Jenkins. Built with "No Button Touch" philosophy, this project has almost all the technologies that I know about or have experience of working in.
+
+- name: 3D Medical Image Registration using Deep Learning  
+  img: '/images/thumbnail_for_projects.PNG'
+  desc: In this scientific team project, as part of master's coursework, we are working with proprietary 3D MRI images to develop a Deep Learning based registration system. As the project is still running and reserved under proprietary rights, repository link is not available for public viewing.
+
+- name: Automated E-parking Payment System Using Blockchain and Deep Learning
+  img: '/images/thumbnail_for_projects.PNG'
+  desc: In this team project, we are working towards developing an automated car parking system where the number plate data will be captured by a camera and read by a model using Deep Learning. After that we shall use Blockchain to further process the transaction. As the project is still running and reserved under proprietary rights, repository link is not available for public viewing.
 
 - name: Style Based Genre Classification
   gh_user: istiyaksiddiquee
   repo: StyleBasedGenreClassification
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
+  repo_URL: https://github.com/istiyaksiddiquee/StyleBasedGenreClassification
+  img: '/images/thumbnail_for_projects.PNG'
   desc: In this team project, we used a dataset of 19th century fictional literature, created by Gutenberg Project. We extracted, based on the research done by Douglas Biber, a custom feature vector of 23 dimension based on writing style. The challenge of the task was the imbalance nature of the dataset. Later, we compared the performances of multiple algorithms, along with neural network in classifying the books.
+
+- name: ApartmentApp
+  gh_user: istiyaksiddiquee
+  repo: ApartmentApp
+  repo_URL: https://gitlab.com/istiyaksiddiquee/ApartmentApp
+  img: '/images/thumbnail_for_projects.PNG'
+  desc: This project was done for a client. In it, I worked with core NodeJs for building a apartment search tool, that gives recommendation for renting an apartment based on a set of parameters of preference set by the user. The UI is pretty basic and was done in raw HTML, CSS, JS. Backbone for deploying this project was deployed using Docker. 
+
+- name: The Hive - Vocabulary app for GRE
+  gh_user: istiyaksiddiquee
+  repo: thehiveproject
+  repo_URL: https://bitbucket.org/istiyaksiddiquee/thehiveproject
+  img: '/images/thumbnail_for_projects.PNG'
+  desc: In this Android app, I have used a dataset of 5000 GRE vocabularies. To learn these, I have designed a user-friendly UI where the user can bookmark the important words and use them as a deck of cards. 
