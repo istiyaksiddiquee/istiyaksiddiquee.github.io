@@ -6,7 +6,7 @@
   repo: MagumOpus
   repo_URL: https://github.com/istiyaksiddiquee/MagumOpus
   img: '/images/magnum_opus_image.png'
-  desc: A demo project built with tonnes of cutting edge tech starting from Java, NodeJs, python to Docker, Kubernetes, istio, Jenkins. Built with "No Button Touch" philosophy, this project has almost all the technologies that I know about or have experience of working in.
+  desc: A demo project built with tonnes of cutting edge tech starting from Java, NodeJs, python, golang to Docker, Kubernetes, istio, Jenkins, Terraform, Ansible etc. Built with "No Button Touch" philosophy, this project has almost all the technologies that I know about or have experience of working in.
 
 - name: 3D Medical Image Registration using Deep Learning  
   img: '/images/thumbnail_for_projects.PNG'
@@ -28,11 +28,11 @@
   repo: ApartmentApp
   repo_URL: https://gitlab.com/istiyaksiddiquee/ApartmentApp
   img: '/images/thumbnail_for_projects.PNG'
-  desc: This project was done for a client. In it, I worked with core NodeJs for building a apartment search tool, that gives recommendation for renting an apartment based on a set of parameters of preference set by the user. The UI is pretty basic and was done in raw HTML, CSS, JS. Backbone for deploying this project was deployed using Docker. 
+  desc: This project was done for a client. In it, I worked with core NodeJs for building a apartment search tool, that gives recommendation for renting an apartment based on a set of parameters of preference set by the user. The UI is pretty basic and was done in raw HTML, CSS, JS. Backbone for deploying this project is Docker. 
 
 - name: The Hive - Vocabulary app for GRE
   gh_user: istiyaksiddiquee
   repo: thehiveproject
   repo_URL: https://bitbucket.org/istiyaksiddiquee/thehiveproject
   img: '/images/thumbnail_for_projects.PNG'
-  desc: In this Android app, I have used a dataset of 5000 GRE vocabularies. To learn these, I have designed a user-friendly UI where the user can bookmark the important words and use them as a deck of cards. 
+  desc: In this Android app, I have used a dataset of 5000 GRE vocabularies, stored in SQLite database. To learn these, I have designed a user-friendly UI where the user can bookmark the important words and use them as a deck of cards. 
