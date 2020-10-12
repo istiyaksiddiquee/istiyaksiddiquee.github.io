@@ -16,7 +16,7 @@ author:
   facebook_username: istiyaksiddiquee
   github_username:  istiyaksiddiquee
   linkedin_username:  istiyaksiddiquee
-  cv: https://github.com/istiyaksiddiquee/istiyaksiddiquee.github.io/raw/master/resources/Mohammad%20Istiyak%20Hossain%20Siddiquee%2004Oct2020.pdf
+  cv: '/resources/Mohammad Istiyak Hossain Siddiquee.pdf'
 
 # Build settings
 destination: _site
