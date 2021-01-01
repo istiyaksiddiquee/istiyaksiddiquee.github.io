@@ -8,13 +8,17 @@
   img: '/images/magnum_opus_image.png'
   desc: A demo project built with tonnes of cutting edge tech starting from Java, NodeJs, python, golang to Docker, Kubernetes, istio, Jenkins, Terraform, Ansible etc. Built with "No Button Touch" philosophy, this project has almost all the technologies that I know about or have experience of working in.
 
+- name: Fair Recommendations in Research
+  img: '/images/thumbnail_for_projects.PNG'
+  desc: In this team project, we are investigating the fairness issues of a recommendation engine and will build a fair recommendation engine using an anonymized dataset of researchers and their publication, citation etc. 
+
 - name: 3D Medical Image Registration using Deep Learning  
   img: '/images/thumbnail_for_projects.PNG'
   desc: In this scientific team project, as part of master's coursework, we are working with proprietary 3D MRI images to develop a Deep Learning based registration system. As the project is still running and reserved under proprietary rights, repository link is not available for public viewing.
 
-- name: Automated E-parking Payment System Using Blockchain and Deep Learning
+- name: Benchmarking the Performance of Attention Network in Stock Prediction
   img: '/images/thumbnail_for_projects.PNG'
-  desc: In this team project, we are working towards developing an automated car parking system where the number plate data will be captured by a camera and read by a model using Deep Learning. After that we shall use Blockchain to further process the transaction. As the project is still running and reserved under proprietary rights, repository link is not available for public viewing.
+  desc: In this team project, we are benchmarking the performance of attention networks in predicting stock prices of different companies, using their publicly available stock information.
 
 - name: Style Based Genre Classification
   gh_user: istiyaksiddiquee
@@ -22,6 +26,10 @@
   repo_URL: https://github.com/istiyaksiddiquee/StyleBasedGenreClassification
   img: '/images/thumbnail_for_projects.PNG'
   desc: In this team project, we used a dataset of 19th century fictional literature, created by Gutenberg Project. We extracted, based on the research done by Douglas Biber, a custom feature vector of 23 dimension based on writing style. The challenge of the task was the imbalance nature of the dataset. Later, we compared the performances of multiple algorithms, along with neural network in classifying the books.
+
+- name: Information Retrieval System using ApacheTM Lucene (November, 2019)
+  img: '/images/thumbnail_for_projects.PNG'
+  desc: This Java project is part of the Information Retrieval course. Given a repository of text/HTML dataset, we were to parse, index, and store them in ApacheTM Lucene. Upon searching, we were to perform a search and rank operation, based on provided string.
 
 - name: ApartmentApp
   gh_user: istiyaksiddiquee
