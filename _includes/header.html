@@ -22,6 +22,17 @@
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
 
+            {% if site.author.scholar_username %}
+              <!-- Google Scholar -->
+              <li class="navigation__item">
+                <a href="https://scholar.google.com/citations?user={{ site.author.scholar_username }}" title="Istiyak Siddiquee on Google Scholar" target="_blank">
+                  <!-- <i class="icon icon-social-twitter"></i> -->
+                  <i class="ai ai-google-scholar-square ai-3x"></i>
+                  <span class="label">Google Scholar</span>
+                </a>
+              </li>
+            {% endif %}
+            
             {% if site.author.twitter_username %}
               <!-- Twitter -->
               <li class="navigation__item">
