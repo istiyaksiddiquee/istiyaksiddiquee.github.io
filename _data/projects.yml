@@ -2,24 +2,27 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Propagation Style Analysis for Fake and Real News
-  gh_user: istiyaksiddiquee
-  repo: MagumOpus
-  repo_URL: https://github.com/istiyaksiddiquee/MagumOpus
+  img: '/images/thumbnail_for_projects.PNG'
   desc: Scientific individual project on early detection of fake news based on propagation style in Twitter. Python, NetworkX, Ray, Docker, Kubernetes, etc. was used in this project.
 
 - name: Web Scraping and Topic Modeling for Deutsche Rotes Kreuz (DRK)
+  img: '/images/thumbnail_for_projects.PNG'
   desc: Volunteering project with DSSG Berlin. Task of the project includes web scraping and complete NLP analysis of partner websites of DRK. Python, Streamlit, etc. in being in this project.
 
 - name: Topic Modeling of a Multilingual Survey Corpus of Women’s March Global (SWB)
+  img: '/images/thumbnail_for_projects.PNG'
   desc: Volunteering project with SWB (Statistic without Borders). Task of the project includes a comparative topic modeling project for Statistics without Borders (SWB), using Transformer-based (Top2Vec, BERTopic) and traditional (LDA) algorithms. 
 
 - name: COLIEE Dataset Challenge
+  img: '/images/thumbnail_for_projects.PNG'
   desc: Semantic similarity based legal document retrieval using deep learning and NLP techniques.
 
 - name: Evolution of Weekly Avg. Sentiment due to COVID-19
+  img: '/images/thumbnail_for_projects.PNG'
   desc: A seminar project to determine the change in sentiment due to COVID-19 pandemic. Python, Pandas, NumPy, Gensim, SciPy, etc. was heavily used in this project. 
 
 - name: NL2SQL and Table Summarization
+  img: '/images/thumbnail_for_projects.PNG'
   desc: Scientific team project on the translation of natural language to SQL and table summarization. PyTorch, HuggingFace, Transformers, Java, etc. was used in this project. 
 
 - name: Magnum Opus
