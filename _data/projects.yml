@@ -5,7 +5,7 @@
 - name: Magnum Opus
   gh_user: istiyaksiddiquee
   repo: MagumOpus
-  repo_URL: https://github.com/istiyaksiddiquee/MagumOpus
+  repo_URL: https://github.com/istiyaksiddiquee/MagnumOpus
   img: '/images/magnum_opus_image.png'
   desc: An end-to-end data science project that gets the data from source, stores it in in-house, custom-made lakehouse-based data lakehouse and processes it with dbt. Then this data is used to develop ML model with distributed training, which is then deployed and monitored in a streaming-based scenario.
 
