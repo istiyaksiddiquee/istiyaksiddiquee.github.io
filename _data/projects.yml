@@ -1,6 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Magnum Opus
+  gh_user: istiyaksiddiquee
+  repo: MagumOpus
+  repo_URL: https://github.com/istiyaksiddiquee/MagumOpus
+  img: '/images/magnum_opus_image.png'
+  desc: An end-to-end data science project that gets the data from source, stores it in in-house, custom-made lakehouse-based data lakehouse and processes it with dbt. Then this data is used to develop ML model with distributed training, which is then deployed and monitored in a streaming-based scenario.
+
 - name: Propagation Style Analysis for Fake and Real News
   img: '/images/thumbnail_for_projects.PNG'
   desc: Scientific individual project on early detection of fake news based on propagation style in Twitter. Python, NetworkX, Ray, Docker, Kubernetes, etc. was used in this project.
@@ -25,13 +33,6 @@
   img: '/images/thumbnail_for_projects.PNG'
   desc: Scientific team project on the translation of natural language to SQL and table summarization. PyTorch, HuggingFace, Transformers, Java, etc. was used in this project. 
 
-- name: Magnum Opus
-  gh_user: istiyaksiddiquee
-  repo: MagumOpus
-  repo_URL: https://github.com/istiyaksiddiquee/MagumOpus
-  img: '/images/magnum_opus_image.png'
-  desc: A demo project built with tonnes of cutting edge tech starting from Java, NodeJs, python, golang to Docker, Kubernetes, istio, Jenkins, Terraform, Ansible etc. Built with "No Button Touch" philosophy, this project has almost all the technologies that I know about or have experience of working in.
-
 - name: Fair Recommendations in Research
   img: '/images/thumbnail_for_projects.PNG'
   desc: In this team project, we are investigating the fairness issues of a recommendation engine and will build a fair recommendation engine using an anonymized dataset of researchers and their publication, citation etc. 
@@ -39,10 +40,6 @@
 - name: 3D Medical Image Registration using Deep Learning  
   img: '/images/thumbnail_for_projects.PNG'
   desc: In this scientific team project, as part of master's coursework, we are working with proprietary 3D MRI images to develop a Deep Learning based registration system. As the project is still running and reserved under proprietary rights, repository link is not available for public viewing.
-
-- name: Benchmarking the Performance of Attention Network in Stock Prediction
-  img: '/images/thumbnail_for_projects.PNG'
-  desc: In this team project, we are benchmarking the performance of attention networks in predicting stock prices of different companies, using their publicly available stock information.
 
 - name: Style Based Genre Classification of Gutenberg Corpus
   gh_user: istiyaksiddiquee
