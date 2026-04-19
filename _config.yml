@@ -18,6 +18,7 @@ author:
   linkedin_username:  istiyaksiddiquee
   scholar_username:  q8rcR-oAAAAJ
   cv: '/resources/Mohammad Istiyak Hossain Siddiquee.pdf'
+  fancy_cv: '/resources/Overleaf Mohammad Istiyak Hossain Siddiquee.pdf'
 
 # Build settings
 destination: _site
